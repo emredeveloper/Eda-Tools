@@ -1,3 +1,4 @@
+# pip install ydata-profiling
 import numpy as np
 import pandas as pd
 from ydata_profiling import ProfileReport
